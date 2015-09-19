@@ -9,12 +9,12 @@ from dateutil.relativedelta import relativedelta
 ### Inputs ###
 ##############
 Beer_Name = 'Master and Margarita'
-Mashing_Temp = 25	#In Celcius
-Mashing_Duration = 1	#In Minutes
-Boil_Temp = 30		#In Celcius
-Boil_Duration = 1	#In Minutes
+Mashing_Temp = 65	#In Celcius
+Mashing_Duration = 60 #In Minutes
+Boil_Temp = 100		#In Celcius
+Boil_Duration = 60	#In Minutes
 #Time_To_1st_Hopping = 0
-Cool_Temp = 20		#In Celcius
+Cool_Temp = 60		#In Celcius
 Duration_of_Ferment = 8 #In Weeks
 
 #####################
