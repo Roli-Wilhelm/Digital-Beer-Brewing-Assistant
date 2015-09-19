@@ -8,7 +8,7 @@ from dateutil.relativedelta import relativedelta
 ##############
 ### Inputs ###
 ##############
-Beer_Name = 'Age of Consent'
+Beer_Name = 'Master and Margarita'
 Mashing_Temp = 25	#In Celcius
 Mashing_Duration = 1	#In Minutes
 Boil_Temp = 30		#In Celcius
